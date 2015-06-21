@@ -1,5 +1,6 @@
-# Data Dictionary - tidydata.txt containing the subject, activity, 79 measurement variables
-## This is generated from running run_analysis.R, please read also readme.MD for more information on the process.
+# Data Dictionary of output tidydata.txt containing the subject, activity, 79 measurement variables
+## For best reading, please use raw view as markup view does not seem to display tab indentitation properly
+## The data is generated from running run_analysis.R, please read also readme.MD for more information on the process.
 
 Subject	2 digits
 	Subject id unique identifier of each subject. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.

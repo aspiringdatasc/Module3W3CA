@@ -20,7 +20,7 @@ checktidydata <- read.table("tidydata.txt", header = TRUE)
 	various files
 4.	Merges the training and the test sets to create one data set.
 5.	Extracts only the measurements on the mean and standard deviation for each measurement. 
-6.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+6.	From the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Further readings:
 [1] Actual course assignment
